@@ -1,0 +1,10 @@
+{
+  "description": "Enhance your project's user interface with intuitive design tools, enabling creators to easily improve aesthetics and user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
