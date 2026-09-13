@@ -56,6 +56,7 @@ ChronosAI is an intelligent, privacy-focused daily planner and focus execution a
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Effects & Audio**: Web Audio API Synth & [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti)
+- **live link**:https://chronosai-psi.vercel.app/
 
 ---
 
